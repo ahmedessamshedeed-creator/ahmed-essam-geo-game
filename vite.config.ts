@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/ahmed-essam-geo-game/',
+    base: './',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
