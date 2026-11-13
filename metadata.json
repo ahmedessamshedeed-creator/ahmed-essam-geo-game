@@ -1,0 +1,6 @@
+{
+  "name": "درس × لعبة — قارات العالم الجديد",
+  "description": "منصة تعليمية تفاعلية لمادة الدراسات الاجتماعية للصف الثالث الإعدادي مع الأستاذ أحمد نورالدين - موقع ومظاهر سطح قارات العالم الجديد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
